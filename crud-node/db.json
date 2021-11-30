@@ -1,0 +1,12 @@
+{
+    "students": [
+        {"id": 1, "name": "zhangsan", "gender": 0, "age": 18, "hobbies": "1,2,3,4" },
+        {"id": 2, "name": "zhangsan", "gender": 0, "age": 18, "hobbies": "1,2,3,4" },
+        {"id": 1, "name": "zhangsan", "gender": 0, "age": 18, "hobbies": "1,2,3,4" },
+        {"id": 1, "name": "zhangsan", "gender": 0, "age": 18, "hobbies": "1,2,3,4" },
+        {"id": 1, "name": "zhangsan", "gender": 0, "age": 18, "hobbies": "1,2,3,4" },
+        {"id": 1, "name": "zhangsan", "gender": 0, "age": 18, "hobbies": "1,2,3,4" },
+        {"id": 1, "name": "zhangsan", "gender": 0, "age": 18, "hobbies": "1,2,3,4" },
+        {"id": 1, "name": "zhangsan", "gender": 0, "age": 18, "hobbies": "1,2,3,4" }
+    ]
+}
