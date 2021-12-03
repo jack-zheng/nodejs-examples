@@ -1,5 +1,5 @@
 {
-  "name": "crud-demo",
+  "name": "mongoose-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "art-template": "^4.13.2",
-    "bootstrap": "^3.4.1",
-    "express": "^4.17.1",
-    "express-art-template": "^1.0.1",
     "mongoose": "^6.0.14"
   }
 }
